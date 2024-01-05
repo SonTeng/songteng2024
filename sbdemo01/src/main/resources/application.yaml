@@ -1,0 +1,4 @@
+server:
+  port: 8899
+pattern:
+  dateformat: "yyyy-MM-dd HH:mm:ss"
